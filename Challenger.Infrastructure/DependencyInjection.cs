@@ -18,7 +18,7 @@ namespace Challenger.Infrastructure
         {
             return services.AddDbContext<CGContext>(options =>
             {
-                options.UseMySQL(configuration.GetConnectionString("MotoGridDB"));
+                options.UseSqlServer(configuration.GetConnectionString("MotoGridDB"));
             });
         }
 
