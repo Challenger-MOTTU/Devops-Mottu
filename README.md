@@ -43,7 +43,7 @@ NET-MOTTU-main/
 ### 📥 Clonar o repositório
 
 ```bash
-git clone <url-do-repo>
+git clone https://github.com/Challenger-MOTTU/Devops-Mottu.git
 cd NET-MOTTU-main
 ```
 
