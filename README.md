@@ -203,6 +203,6 @@ dotnet ef database update --project Challenger.Infrastructure/Challenger.Infrast
 
 ## 👥 Integrantes
 
-* **Gabriel Gomes Mancera** - RM: 555427
-* **Juliana de Andrade Sousa** - RM: 558834
-* **Victor Hugo Carvalho Pereira** - RM: 558550
+* **Gabriel Gomes Mancera** - RM:555427
+* **Juliana de Andrade Sousa** - RM:558834
+* **Victor Hugo Carvalho Pereira** - RM:558550
