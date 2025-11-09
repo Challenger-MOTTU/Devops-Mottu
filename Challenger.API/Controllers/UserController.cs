@@ -106,7 +106,7 @@ namespace WebApplication2.Controllers
             }
             catch (Exception)
             {
-                return StatusCode(500, new { message = "Erro a cadastrar Usuario" });
+                return StatusCode(500);
             }
         }
 
