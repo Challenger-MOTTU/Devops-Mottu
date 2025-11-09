@@ -11,7 +11,7 @@ O projeto foi criado como parte da Sprint 4 com objetivo de aplicar boas prátic
 * Aplicar conceitos de **Domain-Driven Design (DDD) e SOLID**.
 * Estruturar as camadas **Domain, Application, Infrastructure e API**.
 * Automatizar build, restore e deploy usando **Azure DevOps Pipelines**.
-* Permitir fácil execução local e testes da aplicação.
+* Permitir fácil execução local e testes da aplicação
 
 ---
 
